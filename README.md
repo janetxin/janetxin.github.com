@@ -1,2 +1,2 @@
-# janetxin.github.io
+# janetxin.github.com
 A Personal Blog Site
